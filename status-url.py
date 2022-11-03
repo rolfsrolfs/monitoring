@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
+#
 # Script that monitors operational status by fetching information from status pages
 #
 # usage:
@@ -11,6 +12,9 @@
 #   https://status.dfo.no
 #   https://status.teamviewer.com
 #   https://status.zoom.us
+#   https://status.instructure.com
+#   https://status.honorlock.com
+#   https://turnitin.statuspage.io
 
 import re
 import requests
